@@ -711,7 +711,7 @@ of your shell history. → [CLI Integrations](docs/guides/CLI-INTEGRATIONS.md)
 
 <div align="center">
 
-## 🖥️ Where OmniRoute Runs — Anywhere
+## 🖥️ Where bhawesh Runs — Anywhere
 
 </div>
 
